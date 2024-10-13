@@ -8,7 +8,7 @@ currently all that's required is to download the zip file from the [current_rele
 
 **This add-on is only tested for Blender 4.2+.** Earlier versions of Compenium might work with earlier version of Blender, but 1) Compendium would be very behind in features and might contain bugs that I fixed in later versions, and 2) if you do choose to use an earlier version of Blender with a new version of Compendium, some of the bpy syntax changed in Blender 4.2+ so it will also most likely break Compendium =P
 
-[Installing Add-ons in Blender 4.2+](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
+[Just In Case -> Installing Add-ons in Blender 4.2+](https://docs.blender.org/manual/en/latest/editors/preferences/addons.html)
 
 
 ## Changes using the Blender file
