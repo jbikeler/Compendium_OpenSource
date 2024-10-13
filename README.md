@@ -3,6 +3,10 @@ Blender 4.2 add-on written with Python and Serpens.
 
 This add-on is taylored to my personal Blender workflow, but it has some interesting tools and layouts that might be of use to others who work similarly.
 
+![Compenium ObjectMode Pie Menu](https://github.com/jbikeler/Compendium_OpenSource/blob/main/github_assets/Compendium_Object_Pie.jpg)
+![Compenium EditMode Pie Menu](https://github.com/jbikeler/Compendium_OpenSource/blob/main/github_assets/Compendium_Edit_Pie.jpg)
+![Compenium EditMode Pie Menu](https://github.com/jbikeler/Compendium_OpenSource/blob/main/github_assets/Compendium_Pane.jpg)
+
 # Installation (4.2+)
 currently all that's required is to download the zip file from the [current_release folder](https://github.com/jbikeler/Compendium_OpenSource/tree/main/current_release). (Don't extract it. Leave it zipped.) Once it's on your machine, open up Blender(4.2+) and go to Edit>Preferences>Add-ons(on the left column)>(hit the 'v' button in the top right)>Install from Disk>select compendium_x.x.x from your machine>Install from Disk(bottom right).
 
